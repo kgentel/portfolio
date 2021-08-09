@@ -4,6 +4,7 @@ In this app a webpage loads with a header, footer and navbar. In the future, fun
 
 
 Github link: https://github.com/kgentel/portfolio
+Deployed app: https://kgentel.github.io/portfolio/
 
 
 # Getting Started with Create React App
