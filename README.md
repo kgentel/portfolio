@@ -1,3 +1,11 @@
+# Portfolio
+
+In this app a webpage loads with a header, footer and navbar. In the future, funtionality will be added to the navbar and a project page with links will load. 
+
+
+Github link: https://github.com/kgentel/portfolio
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
